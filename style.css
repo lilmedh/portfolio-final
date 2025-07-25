@@ -129,10 +129,12 @@ p {
 }
 
 .section-image {
-  width: 100px;
-  height: auto;
+  width: 100px !important;
+  height: auto !important;
+  display: block;
+  object-fit: contain;
+  max-width: 100px;
   max-height: 100px;
-  object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 5px 15px rgba(0, 188, 212, 0.2);
   border: 4px solid #b2ebf2;
