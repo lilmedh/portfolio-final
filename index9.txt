@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pranav Bawa - Portfolio</title>
+  <title>Medhansh Dhar - Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     * {
@@ -239,7 +239,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Pranav Bawa. All rights reserved.</p>
+    <p>&copy; 2025 Medhansh Dhar. All rights reserved.</p>
   </footer>
 </body>
 </html>
